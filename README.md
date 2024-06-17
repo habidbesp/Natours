@@ -14,4 +14,4 @@ The owner allows its use for commercial and personal purposes, but it is prohibi
 
 - Implementing advanced CSS animations with @keyframes, animation and transition.
 
-[View the final result of this course.](https://natours-sass-course.vercel.app)
+[➣ View the final result of this course.](https://natours-sass-course.vercel.app)
