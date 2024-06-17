@@ -6,7 +6,7 @@ The owner allows its use for commercial and personal purposes, but it is prohibi
 
 ## Acquired Knowledge
 
-- Using Sass im plementing global variables, architecting CSS and managing media queries.
+- Implementing global variables, architecting CSS and managing media queries with SASS.
 
 - Responsive images in HTML and CSS for faster pageloads.
 
